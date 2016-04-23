@@ -15,5 +15,5 @@ docker run -d --restart=always --name bitcore \
    sena/bitcore
 ```
 
-[Dockerfile]: <https://github.com/sena/bitcore/Dockerfile>
+[Dockerfile]: <https://github.com/jsribeiro/bitcore/blob/master/Dockerfile>
 [Bitcore]: <https://github.com/bitpay/bitcore>

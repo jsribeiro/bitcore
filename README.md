@@ -1,5 +1,5 @@
 # Supported tags and respective `Dockerfile` links
-* `3.0.0`, `3.0`, `3`, `latest` ([Dockerfile])
+* `latest` ([Dockerfile])
 
 [![](https://imagelayers.io/badge/sena/bitcore:latest.svg)](https://imagelayers.io/?images=sena/bitcore:latest 'Get your own badge on imagelayers.io')
 
